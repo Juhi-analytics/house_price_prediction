@@ -1,4 +1,4 @@
-# house_price_prediction
+# house_price_prediction   : https://housepriceprediction-fdizxagyjnf62tacf6vfgt.streamlit.app/
 An end-to-end Machine Learning project that predicts house prices using property features such as location, total square footage, number of bathrooms, and BHK configuration. The project includes data cleaning, feature engineering, model comparison, hyperparameter tuning, and deployment using Streamlit.
 
 📌  Problem Statement
